@@ -1,0 +1,25 @@
+[Eagle]
+Version="07 04 00"
+Platform="Mac OS X"
+Serial="7302F19AE5-LSR-WLM-1CL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/Applications/EAGLE-7.3.0/lbr/74xx-us.lbr"
+UsedLibrary="/Applications/EAGLE-7.3.0/lbr/Arduino-M6KWH.lbr"
+UsedLibrary="/Applications/EAGLE-7.3.0/lbr/m6kwh.lbr"
+UsedLibrary="/Applications/EAGLE-7.3.0/lbr/pinhead.lbr"
+UsedLibrary="/Applications/EAGLE-7.3.0/lbr/rcl.lbr"
+UsedLibrary="/Applications/EAGLE-7.3.0/lbr/supply1.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="480 302 1079 701"
+State=2
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
